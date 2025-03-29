@@ -64,7 +64,7 @@
  }
 
  .hero {
-  background: url("../img/mark.jpg") no-repeat center center/cover;
+  background: url("mark.jpg") no-repeat center center/cover;
   padding: 5em 0;
   color:#fff;
   text-align: center;
